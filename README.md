@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Victor</h1>
 
 <h3 align="center">
@@ -19,6 +18,7 @@ I also work with a relatively weak computer, so most of my codes are designed to
 
 If you find mistakes in my code, physics assumptions, numerical methods, or explanations, please feel free to tell me. Feedback is useful for improving my work.
 
+---
 
 ## Project philosophy
 
@@ -28,13 +28,15 @@ For this reason, I will try to add small explanation reports for my simulations.
 
 Whenever possible, I will try to reproduce existing examples, known physical results, or simplified cases where I can compare my results with something reliable. This is important to avoid building simulations that have no clear physical meaning or no way to check if the results are reasonable.
 
-
+---
 
 ## Current interests
 
-- Numerical simulations in physics
-- Plasma physics and fusion-related problems
-- Machine learning for physical data
+* Numerical simulations in physics
+* Plasma physics and fusion-related problems
+* Machine learning for physical data
+
+---
 
 ## Languages and Tools
 
@@ -66,7 +68,7 @@ Whenever possible, I will try to reproduce existing examples, known physical res
 
 </p>
 
-
+---
 
 ## Main goal
 
