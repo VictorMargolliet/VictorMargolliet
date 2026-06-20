@@ -8,19 +8,18 @@ Physics student interested in numerical simulations and plasma physics
 
 ## About me
 
-I am a physics student using this GitHub profile to improve my coding skills through small numerical simulations, data analysis, and simplified physics models.
+I am a physics student using this GitHub profile to improve my coding skills through small numerical simulations.
 
-My main interest is plasma physics, but I may also explore other topics in numerical physics and scientific computing.
+My main interest is plasma physics, but I may also explore other topics in numerical physics.
+
+The goal is not only to write code, but also to understand the physical meaning behind each simulation. For this reason, I will try to add short reports explaining the model, assumptions, numerical method, and results.
+
+When possible, I will reproduce existing examples or simple reference cases so that my results can be compared and checked.
 
 Some projects may contain mistakes or simplified assumptions because I am still learning and working with limited hardware.
 
 If you find errors in the code, physics, numerical methods, or explanations, please let me know.
 
-My goal is to write code while also understanding the physical meaning behind the simulations.
-
-I will try to add short reports explaining the model, assumptions, numerical method, and results.
-
-When possible, I will reproduce existing examples or simple reference cases so that my results can be compared and checked.
 
 
 ---
@@ -65,8 +64,3 @@ When possible, I will reproduce existing examples or simple reference cases so t
 
 ---
 
-## Main goal
-
-My main goal is to progressively improve in numerical physics.
-
-This profile is a training space where I try to learn by coding, testing, making mistakes, correcting them, and comparing my results with existing references or simplified analytical cases whenever possible.
