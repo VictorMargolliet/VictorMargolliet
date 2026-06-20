@@ -8,25 +8,20 @@ Physics student interested in numerical simulations and plasma physics
 
 ## About me
 
-I am still a physics student, and this GitHub profile is mainly a learning space.
+I am a physics student using this GitHub profile to improve my coding skills through small numerical simulations, data analysis, and simplified physics models.
 
-I use it to improve my coding skills by trying to build small numerical simulations, data analysis tools, and simple physics-based models. My main interest is plasma physics, but I may also work on other topics related to numerical physics and scientific computing.
+My main interest is plasma physics, but I may also explore other topics in numerical physics and scientific computing.
 
-Because I am still learning, some projects may contain mistakes, incomplete parts, or simplified physical models. I will often use simplified models because I do not yet have the full theoretical or numerical level needed to reproduce advanced simulations correctly.
+Some projects may contain mistakes or simplified assumptions because I am still learning and working with limited hardware.
 
-I also work with a relatively weak computer, so most of my codes are designed to stay simple and light enough to run on limited hardware.
+If you find errors in the code, physics, numerical methods, or explanations, please let me know.
 
-If you find mistakes in my code, physics assumptions, numerical methods, or explanations, please feel free to tell me. Feedback is useful for improving my work.
+My goal is to write code while also understanding the physical meaning behind the simulations.
 
----
+I will try to add short reports explaining the model, assumptions, numerical method, and results.
 
-## Project philosophy
+When possible, I will reproduce existing examples or simple reference cases so that my results can be compared and checked.
 
-My goal is not only to write code, but also to understand what the code is doing physically.
-
-For this reason, I will try to add small explanation reports for my simulations. These reports may describe the physical model, the assumptions used, the numerical method, and the meaning of the results.
-
-Whenever possible, I will try to reproduce existing examples, known physical results, or simplified cases where I can compare my results with something reliable. This is important to avoid building simulations that have no clear physical meaning or no way to check if the results are reasonable.
 
 ---
 
