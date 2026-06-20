@@ -8,13 +8,11 @@ Physics student interested in numerical simulations and plasma physics
 
 ## About me
 
-
-I am a physics student using this GitHub profile to improve my coding skills through small numerical simulation. My main interest is plasma physics, especially fusion-related problems, but I may also explore other topics in numerical physics and machine learning apply to physical problems.
+I am a physics student using this GitHub profile to improve my coding skills through small numerical simulations. My main interest is plasma physics, especially fusion-related problems, but I may also explore other topics in numerical physics and AI methods applied to physical problems.
 
 The goal is not only to write code, but also to understand the physical meaning behind each simulation. For this reason, I will try to add short reports explaining the model, assumptions, numerical method, and results. When possible, I will reproduce existing examples or simple reference cases so that my results can be compared and checked.
 
 Some projects may contain mistakes or simplified assumptions because I am still learning and working with limited hardware. If you find errors in the code, physics, numerical methods, or explanations, please let me know.
-
 
 
 ## Languages and Tools
